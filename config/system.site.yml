@@ -1,0 +1,14 @@
+uuid: 0ad881fa-c1b4-49c0-8ff8-2042a4f0b934
+name: pantheon-example-site8
+mail: greg.1.anderson@greenknowe.org
+slogan: 'Coolest site ever'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
